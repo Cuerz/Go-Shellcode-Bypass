@@ -7,7 +7,6 @@ import (
 	"io/ioutil"
 	"os"
 	"syscall"
-	"time"
 	"unsafe"
 )
 
